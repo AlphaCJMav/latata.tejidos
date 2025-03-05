@@ -5,6 +5,22 @@ header .container {
   transform: scale(1.05);
   transition: transform 0.3s ease-in-out;
 }
+.menu-bar{
+  background-color: transparent;
+  font-size: 20px;
+  font-weight: bold;
+}
+.menu-bar:hover {
+  transform: scale(1.55);
+  transition: transform 0.3s ease-in-out;
+  cursor: pointer;
+  color: #04724d;
+  background-color: transparent;
+}
+.logo-svg{
+  width: 70px;
+}
+
   @media (max-width: 449px) {
 .instagram {
   font-size: 10px;
@@ -13,4 +29,13 @@ header .container {
   font-size: 2rem;
   margin-bottom: 5px;
 }
+.menu-bar{
+  padding: 20px;
+}
+strong,
+b,
+a {
+  font-weight: 800;
+  font-size: 20px;
+  }
 }

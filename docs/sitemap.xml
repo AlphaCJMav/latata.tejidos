@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/cat/</loc>
+    <loc>http://localhost:1313/latata.tejidos/cat/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/dog/</loc>
+    <loc>http://localhost:1313/latata.tejidos/dog/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/ejemplo/</loc>
+    <loc>http://localhost:1313/latata.tejidos/ejemplo/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/home/</loc>
+    <loc>http://localhost:1313/latata.tejidos/home/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/categories/</loc>
+    <loc>http://localhost:1313/latata.tejidos/categories/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/</loc>
+    <loc>http://localhost:1313/latata.tejidos/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/categories/para-amigos/</loc>
+    <loc>http://localhost:1313/latata.tejidos/categories/para-amigos/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/categories/para-el-hogar/</loc>
+    <loc>http://localhost:1313/latata.tejidos/categories/para-el-hogar/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/categories/para-vos/</loc>
+    <loc>http://localhost:1313/latata.tejidos/categories/para-vos/</loc>
   </url><url>
-    <loc>https://alphacjmav.github.io/latata.tejidos/tags/</loc>
+    <loc>http://localhost:1313/latata.tejidos/tags/</loc>
   </url>
 </urlset>
