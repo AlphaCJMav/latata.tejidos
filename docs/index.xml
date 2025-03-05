@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariana Page</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Mariana Page</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/cat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cat/</guid>
+      <description>Este es el primer Post</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/dog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dog/</guid>
+      <description>Este es el primer Post</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/ejemplo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/ejemplo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
