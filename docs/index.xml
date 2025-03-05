@@ -12,7 +12,7 @@
       <link>https://alphacjmav.github.io/latata.tejidos/cat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alphacjmav.github.io/latata.tejidos/cat/</guid>
-      <description>Este es el primer Post</description>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -26,6 +26,13 @@
       <link>https://alphacjmav.github.io/latata.tejidos/ejemplo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alphacjmav.github.io/latata.tejidos/ejemplo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://alphacjmav.github.io/latata.tejidos/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alphacjmav.github.io/latata.tejidos/home/</guid>
       <description></description>
     </item>
   </channel>

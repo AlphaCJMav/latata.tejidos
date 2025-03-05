@@ -2,7 +2,6 @@ baseUrl= 'https://alphacjmav.github.io/latata.tejidos/'
 languageCode = 'es'
 title = 'Mariana Page'
 theme = "simple-snipcart-shop"
-disableKinds = ["taxonomy", "term"]
 contentDir = "content/products"
 publishDir = "docs"
 
@@ -15,20 +14,21 @@ publishDir = "docs"
   not_found = "No hay productos de esa categoría."
 
   categories = [
-    "For you",
-    "For the home",
-    "For the friends"
+    "Para Vos",
+    "Para el Hogar",
+    "Para Amigos"
   ]
 
     collage = [
-    "/latata.tejidos/images/products/collage-1.jpg",
-    "/latata.tejidos/images/products/collage-2.jpg",
-    "/images/collage-3.jpg",
-    "/images/collage-8.jpg",
-    "/latata.tejidos/images/products/collage-7.jpg",
-    "/images/collage-4.jpg",
-    "/latata.tejidos/images/products/collage-5.jpg",
-    "/latata.tejidos/images/products/collage-6.jpg"
+    "/latata.tejidos/images/collage/1.jpg",
+    "/latata.tejidos/images/collage/2.jpg",
+    "/latata.tejidos/images/collage/3.jpg",
+    "/latata.tejidos/images/collage/4.jpg",
+    "/latata.tejidos/images/collage/5.jpg",
+    "/latata.tejidos/images/collage/6.jpg",
+    "/latata.tejidos/images/collage/7.jpg",
+    "/latata.tejidos/images/collage/8.jpg",
+
   ]
 
 [author]
