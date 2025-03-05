@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mariana Page</title>
-    <link>http://localhost:1313/latata.tejidos/</link>
+    <link>https://alphacjmav.github.io/latata.tejidos/</link>
     <description>Recent content on Mariana Page</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/latata.tejidos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alphacjmav.github.io/latata.tejidos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/latata.tejidos/cat/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/cat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/cat/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/cat/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/latata.tejidos/dog/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/dog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/dog/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/dog/</guid>
       <description>Este es el primer Post</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/latata.tejidos/ejemplo/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/ejemplo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/ejemplo/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/ejemplo/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/latata.tejidos/home/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/home/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/home/</guid>
       <description></description>
     </item>
   </channel>
