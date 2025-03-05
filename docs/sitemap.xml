@@ -12,7 +12,11 @@
   </url><url>
     <loc>http://localhost:1313/latata.tejidos/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/latata.tejidos/cursos/</loc>
+  </url><url>
     <loc>http://localhost:1313/latata.tejidos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/latata.tejidos/categories/menu/</loc>
   </url><url>
     <loc>http://localhost:1313/latata.tejidos/categories/para-amigos/</loc>
   </url><url>
@@ -23,5 +27,7 @@
     <loc>http://localhost:1313/latata.tejidos/proyectos/</loc>
   </url><url>
     <loc>http://localhost:1313/latata.tejidos/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/latata.tejidos/videos/</loc>
   </url>
 </urlset>

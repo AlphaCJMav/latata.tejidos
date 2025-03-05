@@ -36,10 +36,24 @@
       <description></description>
     </item>
     <item>
+      <title>Cursos</title>
+      <link>http://localhost:1313/latata.tejidos/cursos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/latata.tejidos/cursos/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Proyectos</title>
       <link>http://localhost:1313/latata.tejidos/proyectos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/latata.tejidos/proyectos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/latata.tejidos/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/latata.tejidos/videos/</guid>
       <description></description>
     </item>
   </channel>
