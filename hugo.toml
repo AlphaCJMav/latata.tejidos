@@ -1,4 +1,4 @@
-
+baseUrl= 'https://alphacjmav.github.io/latata.tejidos/'
 languageCode = 'es'
 title = 'Mariana Page'
 theme = "simple-snipcart-shop"
@@ -7,7 +7,7 @@ contentDir = "content/products"
 publishDir = "docs"
 
 [params]
-  instagram = "Mariana_Crochet"
+  instagram = "bordarmarianabranca"
   header = "Bienvenidos al Mundo de Mariana Crochet!"
   description = "Donde creamos sueños y Tejidos"
   products_title = "Nuestros Productos"
@@ -21,14 +21,14 @@ publishDir = "docs"
   ]
 
     collage = [
-    "/images/products/collage-1.jpg",
-    "/images/collage-2.jpg",
+    "/latata.tejidos/images/products/collage-1.jpg",
+    "/latata.tejidos/images/products/collage-2.jpg",
     "/images/collage-3.jpg",
     "/images/collage-8.jpg",
-    "/images/collage-7.jpg",
+    "/latata.tejidos/images/products/collage-7.jpg",
     "/images/collage-4.jpg",
-    "/images/collage-5.jpg",
-    "/images/collage-6.jpg"
+    "/latata.tejidos/images/products/collage-5.jpg",
+    "/latata.tejidos/images/products/collage-6.jpg"
   ]
 
 [author]

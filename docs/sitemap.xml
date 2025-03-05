@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/cat/</loc>
+    <loc>https://alphacjmav.github.io/latata.tejidos/cat/</loc>
   </url><url>
-    <loc>//localhost:1313/dog/</loc>
+    <loc>https://alphacjmav.github.io/latata.tejidos/dog/</loc>
   </url><url>
-    <loc>//localhost:1313/ejemplo/</loc>
+    <loc>https://alphacjmav.github.io/latata.tejidos/ejemplo/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://alphacjmav.github.io/latata.tejidos/</loc>
   </url>
 </urlset>
