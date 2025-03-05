@@ -1,0 +1,40 @@
+
+languageCode = 'es'
+title = 'Mariana Page'
+theme = "simple-snipcart-shop"
+disableKinds = ["taxonomy", "term"]
+contentDir = "content/products"
+publishDir = "docs"
+
+[params]
+  instagram = "Mariana_Crochet"
+  header = "Bienvenidos al Mundo de Mariana Crochet!"
+  description = "Donde creamos sueños y Tejidos"
+  products_title = "Nuestros Productos"
+  reviews_title = "Nuestras Reseñas"
+  not_found = "No hay productos de esa categoría."
+
+  categories = [
+    "For you",
+    "For the home",
+    "For the friends"
+  ]
+
+    collage = [
+    "/images/products/collage-1.jpg",
+    "/images/collage-2.jpg",
+    "/images/collage-3.jpg",
+    "/images/collage-8.jpg",
+    "/images/collage-7.jpg",
+    "/images/collage-4.jpg",
+    "/images/collage-5.jpg",
+    "/images/collage-6.jpg"
+  ]
+
+[author]
+name = "Alpha Maverick"
+
+  # snipcart features will not work without an api key
+  # see https://docs.snipcart.com/v3/dashboard/account-configuration#3-api-keys
+  snipcart_key = ""
+  favicon= "/images/favicon.png"
