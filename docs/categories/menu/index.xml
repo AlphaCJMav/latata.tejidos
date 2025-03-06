@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menu on Mariana Page</title>
-    <link>http://localhost:1313/latata.tejidos/categories/menu/</link>
+    <link>https://alphacjmav.github.io/latata.tejidos/categories/menu/</link>
     <description>Recent content in Menu on Mariana Page</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/latata.tejidos/categories/menu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alphacjmav.github.io/latata.tejidos/categories/menu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cursos</title>
-      <link>http://localhost:1313/latata.tejidos/cursos/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/cursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/cursos/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/cursos/</guid>
       <description></description>
     </item>
     <item>
       <title>Proyectos</title>
-      <link>http://localhost:1313/latata.tejidos/proyectos/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/proyectos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/proyectos/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/proyectos/</guid>
       <description></description>
     </item>
     <item>
       <title>Videos</title>
-      <link>http://localhost:1313/latata.tejidos/videos/</link>
+      <link>https://alphacjmav.github.io/latata.tejidos/videos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/latata.tejidos/videos/</guid>
+      <guid>https://alphacjmav.github.io/latata.tejidos/videos/</guid>
       <description></description>
     </item>
   </channel>
